@@ -1,0 +1,51 @@
+==============================
+EMAIL SAMPLE 1
+==============================
+
+Subject: New Fax Message Received
+Sender: fax-service@attacker-example.com
+
+Dear User,
+
+You have received a new fax message.
+Please open the attached file to review the document.
+
+Attachment: fax_document.zip
+
+Classification: PHISHING
+
+----------------------------------------
+
+Indicators:
+- Suspicious sender address
+- Unexpected attachment
+- Social engineering attempt
+- Generic message
+- Compressed attachment (.zip)
+
+========================================
+
+EMAIL SAMPLE 2
+========================================
+
+Subject: New Voice Message
+Sender: voicemail@unknown-domain.com
+
+Hello,
+
+You received a new voice message.
+Click the link below to listen:
+
+http://voice-message-check.com
+
+Classification: SUSPICIOUS
+
+----------------------------------------
+
+Indicators:
+- Unknown sender
+- Suspicious external link
+- Generic greeting
+- Urgent call-to-action
+
+

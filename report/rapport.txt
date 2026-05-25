@@ -1,0 +1,95 @@
+📄 RAPPORT PDF — PHISHING EMAIL ANALYSIS
+(Canva Ready Structure)
+🟦 PAGE 1 — COVER
+
+Title :
+
+Future Interns — Task 2
+
+Subtitle :
+Phishing Email Analysis & Cybersecurity Awareness
+
+Footer :
+Educational Project — Email Security Investigation
+
+🟦 PAGE 2 — INTRODUCTION
+📌 What is phishing?
+
+Phishing is a cyberattack technique where attackers impersonate legitimate organizations to steal sensitive information such as:
+
+Login credentials
+Personal data
+Financial information
+🎯 Objective of this project
+
+To analyze suspicious emails and identify phishing indicators using real cybersecurity techniques.
+
+🟦 PAGE 3 — METHODOLOGY
+🔍 How the analysis was performed:
+Email header inspection
+SPF / DKIM / DMARC verification
+Link analysis (URL inspection)
+Attachment evaluation
+JavaScript behavior inspection
+Manual review of social engineering tactics
+🟦 PAGE 4 — EMAIL 1 ANALYSIS
+📧 Fake Fax Notification
+
+Observed indicators:
+
+SPF failure ❌
+DMARC failure ❌
+Spoofed sender domain
+Fake MetroFax service impersonation
+Malicious hyperlink
+Urgency-based message
+
+Risk level: 🔴 HIGH
+
+🟦 PAGE 5 — EMAIL 2 ANALYSIS
+📧 Fake Voice Message
+
+Observed indicators:
+
+JavaScript redirection ⚠️
+Spoofed sender identity
+Suspicious attachment
+External domain mismatch
+Obfuscated text content
+
+Risk level: 🔴 HIGH
+
+🟦 PAGE 6 — INDICATORS DETECTED
+🚨 Key phishing indicators identified:
+Email spoofing
+SPF failure
+DMARC failure
+Malicious links
+JavaScript redirects
+Suspicious attachments
+Social engineering (urgency, fear tactics)
+🟦 PAGE 7 — RESULTS
+📊 Classification outcome:
+Email 1 → ❌ Phishing
+Email 2 → ❌ Phishing
+🧠 Summary:
+
+Both emails used classic phishing strategies designed to manipulate user trust and bypass basic email security filters.
+
+🟦 PAGE 8 — RECOMMENDATIONS
+🛡️ Security improvements:
+Enable Multi-Factor Authentication (MFA)
+Deploy email filtering solutions
+Proper SPF / DKIM / DMARC configuration
+User awareness training
+Avoid clicking unknown links or attachments
+🟦 PAGE 9 — CONCLUSION
+
+Phishing attacks continue to evolve using more advanced techniques such as script-based redirection and domain spoofing.
+
+Strong security infrastructure combined with user education is essential to reduce risk.
+
+🟦 PAGE 10 — THANK YOU
+🙏 Thank you
+
+Project completed as part of cybersecurity awareness training.
