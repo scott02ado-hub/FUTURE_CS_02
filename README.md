@@ -1,6 +1,6 @@
 # Phishing Email Analysis Project
 
-## 🎯 Objectif
+##  Objectif
 
 Ce projet a pour objectif d’analyser plusieurs emails suspects dans un cadre éducatif afin de comprendre les techniques utilisées dans les attaques de phishing.
 
@@ -14,7 +14,7 @@ L’étude se concentre sur l’identification des indicateurs de compromission 
 
 ---
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Google Header Analyzer
 - MXToolbox (SPF / DKIM / DMARC checks)
@@ -24,7 +24,7 @@ L’étude se concentre sur l’identification des indicateurs de compromission 
 
 ---
 
-## 📧 Emails analysés
+##  Emails analysés
 
 ### Email 1 — Fake Fax Notification
 - Échec SPF
@@ -48,7 +48,7 @@ L’étude se concentre sur l’identification des indicateurs de compromission 
 
 ---
 
-## 🔍 Indicateurs de compromission détectés
+##  Indicateurs de compromission détectés
 
 - Email spoofing
 - SPF failure
@@ -60,7 +60,7 @@ L’étude se concentre sur l’identification des indicateurs de compromission 
 
 ---
 
-## 📊 Résultats de l’analyse
+##  Résultats de l’analyse
 
 Après inspection, les emails analysés ont été classés comme :
 
@@ -71,7 +71,7 @@ Les messages montrent des techniques classiques utilisées dans les campagnes de
 
 ---
 
-## 🛡️ Recommandations de sécurité
+##  Recommandations de sécurité
 
 Pour réduire les risques de phishing :
 
@@ -83,10 +83,13 @@ Pour réduire les risques de phishing :
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 Cette analyse met en évidence la sophistication croissante des attaques de phishing et l’importance des mécanismes de protection côté utilisateur et côté infrastructure.
 
 La vigilance et les bonnes pratiques de cybersécurité restent essentielles pour réduire les risques de compromission.
 
 ---
+
+
+                                                                  Powered by ADOGNON Aimé
